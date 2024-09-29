@@ -33,6 +33,11 @@ sql_file_path = Path.Path("sql").joinpath("create_tables.sql")
 author_data_path = Path.Path("data").joinpath("authors.csv")
 book_data_path = Path.Path("data").joinpath("books.csv")
 
+
+#####################################
+# Functions
+#####################################
+
 def verify_and_create_folders(paths): 
     """Verify and create folders if they don't exist, using paths as a list of paths where folders should be created."""
     for path in paths:
@@ -79,6 +84,14 @@ def insert_data_from_csv(db_path, author_data_path, book_data_path):
             logging.info("Data inserted successfully")
     except (sqlite3.Error, pd.errors.EmptyDataError, FileNotFoundError) as e:
         print(f"Error inserting data: {e}")
+
+def execute_sql_from_file(db_filepath, sql_file):
+    """Execute SQL statements from a file. db_filepath is where database should be created, sql_file is where the SQL file is located."""
+    with sqlite3.connect(db_filepath) as conn:
+        with open(sql_file, 'r') as file:
+            sql_script = file.read()
+        conn.executescript(sql_script)
+        print(f"Executed SQL from {sql_file}")
 
 def main():
     paths_to_verify = [sql_file_path, author_data_path, book_data_path]
