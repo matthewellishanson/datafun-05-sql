@@ -10,7 +10,7 @@ VALUES
 ('47b4b44d-1d29-45ea-8dff-99645d963a5a', 'Ann', 'Patchett', 1963),
 ('0078aebb-0508-4998-82c8-dbd3da5bbb9a', 'Patrick', 'Rothfuss', 1973),
 ('573ee3e9-431d-4f2e-ad15-b55ee793e21b', 'Yuval Noah', 'Harari', 1976),
-('c6815a60-ebad-47ea-ae27-0bfb8badb824', 'Nicholas', 'Carr', 1959)
+('c6815a60-ebad-47ea-ae27-0bfb8badb824', 'Nicholas', 'Carr', 1959);
 
 -- Insert books data
 INSERT INTO books (book_id, title, year_published, author_id) 

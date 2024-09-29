@@ -30,3 +30,37 @@
 2024-09-29 16:09:07,395 - INFO - Data inserted successfully
 2024-09-29 16:09:09,308 - INFO - Program started
 2024-09-29 16:09:09,308 - INFO - Program ended
+2024-09-29 16:15:50,984 - INFO - Program started
+2024-09-29 16:15:50,984 - INFO - Program ended
+2024-09-29 16:15:50,985 - INFO - Database created successfully
+2024-09-29 16:15:51,002 - INFO - Tables created successfully
+2024-09-29 16:15:51,033 - INFO - Data inserted successfully
+2024-09-29 16:15:55,034 - INFO - Program started
+2024-09-29 16:15:55,034 - INFO - Program ended
+2024-09-29 16:17:25,608 - INFO - Program started
+2024-09-29 16:17:25,608 - INFO - Program ended
+2024-09-29 16:17:25,609 - INFO - Database created successfully
+2024-09-29 16:17:25,624 - INFO - Tables created successfully
+2024-09-29 16:17:25,653 - INFO - Data inserted successfully
+2024-09-29 16:17:27,426 - INFO - Program started
+2024-09-29 16:17:27,426 - INFO - Program ended
+2024-09-29 16:18:49,694 - INFO - Program started
+2024-09-29 16:18:49,694 - INFO - Program ended
+2024-09-29 16:18:49,695 - INFO - Database created successfully
+2024-09-29 16:18:49,716 - INFO - Tables created successfully
+2024-09-29 16:18:49,745 - INFO - Data inserted successfully
+2024-09-29 16:18:51,656 - INFO - Program started
+2024-09-29 16:18:51,656 - INFO - Program ended
+2024-09-29 16:19:44,836 - INFO - Program started
+2024-09-29 16:19:44,836 - INFO - Program ended
+2024-09-29 16:19:44,837 - INFO - Database created successfully
+2024-09-29 16:19:44,857 - INFO - Tables created successfully
+2024-09-29 16:19:44,888 - INFO - Data inserted successfully
+2024-09-29 16:23:43,700 - INFO - Program started
+2024-09-29 16:23:43,700 - INFO - Program ended
+2024-09-29 16:23:43,701 - INFO - Database created successfully
+2024-09-29 16:23:43,716 - INFO - Tables created successfully
+2024-09-29 16:23:43,745 - INFO - Data inserted successfully
+2024-09-29 16:23:45,786 - INFO - Program started
+2024-09-29 16:23:45,786 - INFO - Program ended
+2024-09-29 16:23:45,841 - INFO - Executed SQL file: sql\query_join.sql
