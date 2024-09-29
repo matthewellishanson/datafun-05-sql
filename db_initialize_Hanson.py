@@ -28,10 +28,10 @@ logging.info("Program ended")  # add this at the end of the main method
 #####################################
 
 
-db_file_path = Path.Path("project.db")
-sql_file_path = Path.Path("sql").joinpath("create_tables.sql")
-author_data_path = Path.Path("data").joinpath("authors.csv")
-book_data_path = Path.Path("data").joinpath("books.csv")
+db_file_path = Path("project.db")
+sql_file_path = Path("sql").joinpath("create_tables.sql")
+author_data_path = Path("data").joinpath("authors.csv")
+book_data_path = Path("data").joinpath("books.csv")
 
 
 #####################################

@@ -1,5 +1,7 @@
 -- Insert authors data
-INSERT INTO authors (author_id, first_name, last_name, year_born) VALUES ('06cf58ab-90f1-448d-8e54-055e4393e75c', 'George R.R.', 'Martin', 1948),
+INSERT INTO authors (author_id, first_name, last_name, year_born) 
+VALUES 
+('06cf58ab-90f1-448d-8e54-055e4393e75c', 'George R.R.', 'Martin', 1948),
 ('18760ec1-0591-4137-ae0b-cf52b3ec0da5', 'David', 'Mitchell', 1969),
 ('1f6a7f1b-2e4b-4b3b-8b4b-0b2b1b2b1b2b', 'Margaret', 'Atwood', 1939),
 ('2b3b1b2b-3b4b-4b5b-8b6b-0b7b1b2b1b2', 'Philip', 'Pullman', 1946),

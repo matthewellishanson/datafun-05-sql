@@ -1,0 +1,32 @@
+2024-09-29 15:58:17,681 - INFO - Program started
+2024-09-29 15:58:17,681 - INFO - Program ended
+2024-09-29 16:00:46,888 - INFO - Program started
+2024-09-29 16:00:46,890 - INFO - Program ended
+2024-09-29 16:00:53,229 - INFO - Program started
+2024-09-29 16:00:53,229 - INFO - Program ended
+2024-09-29 16:00:53,230 - INFO - Database created successfully
+2024-09-29 16:00:53,248 - INFO - Tables created successfully
+2024-09-29 16:00:53,282 - INFO - Data inserted successfully
+2024-09-29 16:03:07,875 - INFO - Program started
+2024-09-29 16:03:07,875 - INFO - Program ended
+2024-09-29 16:04:33,783 - INFO - Program started
+2024-09-29 16:04:33,783 - INFO - Program ended
+2024-09-29 16:04:33,784 - INFO - Database created successfully
+2024-09-29 16:04:33,803 - INFO - Tables created successfully
+2024-09-29 16:04:33,836 - INFO - Data inserted successfully
+2024-09-29 16:05:57,741 - INFO - Program started
+2024-09-29 16:05:57,741 - INFO - Program ended
+2024-09-29 16:07:27,444 - INFO - Program started
+2024-09-29 16:07:27,444 - INFO - Program ended
+2024-09-29 16:07:27,446 - INFO - Database created successfully
+2024-09-29 16:07:27,463 - INFO - Tables created successfully
+2024-09-29 16:07:27,491 - INFO - Data inserted successfully
+2024-09-29 16:07:29,418 - INFO - Program started
+2024-09-29 16:07:29,418 - INFO - Program ended
+2024-09-29 16:09:07,345 - INFO - Program started
+2024-09-29 16:09:07,345 - INFO - Program ended
+2024-09-29 16:09:07,346 - INFO - Database created successfully
+2024-09-29 16:09:07,364 - INFO - Tables created successfully
+2024-09-29 16:09:07,395 - INFO - Data inserted successfully
+2024-09-29 16:09:09,308 - INFO - Program started
+2024-09-29 16:09:09,308 - INFO - Program ended

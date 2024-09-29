@@ -13,7 +13,7 @@ from pathlib import Path
 import pandas as pd
 
 # Import execute_sql_file from db_operations_Hanson
-from db_operations_Hanson import execute_sql_from_file
+from db_initialize_Hanson import execute_sql_from_file
 
 #####################################
 # Global variables
@@ -43,7 +43,7 @@ def main():
         sql_folder_path.joinpath("query_filter.sql"),
         sql_folder_path.joinpath("query_sorting.sql"),
         sql_folder_path.joinpath("query_group_by.sql"),
-        sql_folder_path.joinpath("query_join.sql"),
+        sql_folder_path.joinpath("query_join.sql")
     ]
 
     # Execute each SQL file
